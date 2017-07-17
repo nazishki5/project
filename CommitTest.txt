@@ -1,2 +1,1 @@
-test content for git tutorial,added new lines, testing git commands
-have to add new lines to test pull
+All new now
